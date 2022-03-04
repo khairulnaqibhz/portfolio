@@ -12,9 +12,9 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        The purpose of Javascript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        An independent and self-motivated person with superior attention to detail, and therefore effective at completing tasks with minimal supervision.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/khairulnaqibhz/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );

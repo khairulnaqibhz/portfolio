@@ -38,7 +38,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            tools like Adobe XD
           </ListParagraph>
         </ListContainer>
       </ListItem>
